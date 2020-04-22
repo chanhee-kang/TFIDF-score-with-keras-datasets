@@ -2,7 +2,7 @@
 ### Download
 Download this git for initiating this program.
 ```
-$git clone https://github.com/chanhee-kang/TF-IDF_Study.git
+$git clone https://github.com/chanhee-kang/TFIDF-score-with-keras-datasets.git
 ```
 ### Dataset
 
